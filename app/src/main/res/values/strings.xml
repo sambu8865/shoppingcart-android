@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Shopping Cart</string>
+    <string name="sign_in">Sign In or Register</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="your_cart_placeholder">Your Carts</string>
+    <string name="no_cart_placeholder">You don\'t have any Cart</string>
+    <string name="add_new_cart_button">New Cart</string>
+    <string name="cart_title_placeholder">Cart Title</string>
+    <string name="new_item_placeholder">New Item</string>
+    <string name="save_cart">Save</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+</resources>
